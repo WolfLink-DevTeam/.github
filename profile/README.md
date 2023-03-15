@@ -1,4 +1,4 @@
-# ![logo](https://avatars.githubusercontent.com/u/127841785?s=70&v=4) [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=32&width=800&color=FFC2F9E5&duration=6666&lines=WolfLink+DevTeam)](https://git.io/typing-svg)
+# ![logo](https://avatars.githubusercontent.com/u/127841785?s=68&v=4) [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=32&width=800&color=FFC2F9E5&duration=6666&lines=WolfLink+DevTeam)](https://git.io/typing-svg)
 
 > ~Kotlin is the best programming language!~
 
