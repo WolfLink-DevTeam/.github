@@ -34,3 +34,4 @@ Aenean eu sapien vel sapien varius tempus luctus sed sapien.
 [^2]: Just as above, this word simply refers to the second wolf in a wolf team.
 [^3]: Just as above, this word simply refers to the third wolf in a wolf team.
 [^4]: Ohhh... what's this?
+[^5]: Good Good Study And DAY DAY UP!
