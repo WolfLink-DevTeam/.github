@@ -12,7 +12,7 @@
 |![](https://avatars.githubusercontent.com/u/58851040?s=80&v=4)|[**404E**](https://github.com/4o4E)|gama wolf[^3]|
 |![](https://avatars.githubusercontent.com/u/72812416?s=80&v=4)|[**EightEggs**](https://github.com/EightEggs)|baby wolf[^4]|
 |![](https://avatars.githubusercontent.com/u/125980738?s=80&v=4)|[**SjvavE**](https://github.com/SjvavE)|cute wolf[^5]|
-|![](https://avatars.githubusercontent.com/u/114559286?s=80&v=4)|[**q1356492075**](https://github.com/q1356492075)|wolf[^6]|
+|![](https://avatars.githubusercontent.com/u/114559286?s=80&v=4)|[**q1356492075**](https://github.com/q1356492075)|young wolf[^6]|
 
 
 ## Under constructing...
@@ -36,3 +36,4 @@ Aenean eu sapien vel sapien varius tempus luctus sed sapien.
 [^3]: Just as above, this word simply refers to the third wolf in a wolf team.
 [^4]: Ohhh... what's this?
 [^5]: Good Good Study And DAY DAY UP!
+[^6]: emmm...
