@@ -36,4 +36,4 @@ Aenean eu sapien vel sapien varius tempus luctus sed sapien.
 [^3]: Just as above, this word simply refers to the third wolf in a wolf team.
 [^4]: Ohhh... what's this?
 [^5]: Good Good Study And DAY DAY UP!
-[^6]: Emmm...
+[^6]: Where there's a will, there's a way.
